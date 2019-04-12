@@ -1,5 +1,5 @@
 #!/bin/sh
-set -euxo pipefail
+#set -euxo pipefail
 
 if [ -f ${SRC_PKG}/composer.json ]
 then
